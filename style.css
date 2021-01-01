@@ -1,0 +1,45 @@
+.container {
+    width: 700px;
+    height: 700px;
+    background-color: silver;
+    position: relative;
+    margin: auto;
+}
+
+.circle {
+    width: 50px;
+    height: 50px;
+    background-color: crimson;
+    position: absolute;
+    top: 325px;
+}
+
+.upper {
+    width: 150px;
+    position: relative;
+    margin: auto;
+    background-color: lightblue;
+    border: none;
+}
+
+.downn {
+    width: 150px;
+    position: relative;
+    margin: auto;
+    background-color: lightblue;
+    border: none;
+}
+
+.joystick {
+    text-align: center;
+    background-color: rgba(77, 124, 62, 0.87);
+    width: auto;
+    height: auto;
+    position: relative;
+    margin: auto;
+}
+
+#result {
+    text-align: center;
+    color: black;
+}
